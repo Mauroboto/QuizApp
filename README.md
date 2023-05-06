@@ -1,3 +1,3 @@
-## Javascript quiz example
+Quiz App
+Para elllllll pelotudo
 
-a simple quiz application to practice object orientend programming in Javascript
